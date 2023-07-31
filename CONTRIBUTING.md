@@ -2,8 +2,9 @@
 
 ## Bug report / Feature request
 
-For bug reports please describe the bug with a clear and concise description, steps to reproduce the behavior (usage
-example or test), expected behavior, provide OS and Node.js version, you can upload screenshots and any additional
+For bug reports please describe the bug with a clear and concise description,
+steps to reproduce the behavior (usage example or test), expected behavior,
+provide OS and Node.js version, you can upload screenshots and any additional
 context for better understanding.
 
 Please don't open an issue to ask questions. Ask it in discussions.
