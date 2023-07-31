@@ -1,0 +1,1 @@
+npm i -D sass postcss postcss-scss postcss-safe-parser postcss-html stylelint stylelint-prettier stylelint-order stylelint-config-standard stylelint-scss stylelint-config-recommended-scss stylelint-config-rational-order stylelint-config-html
